@@ -1,5 +1,5 @@
 <!DOCTYPE>
-<html>
+<html lang="en" xml:lang="en">
 	<head>
 		<title>
 			Hello Feb 2022 Weekend Batch!
